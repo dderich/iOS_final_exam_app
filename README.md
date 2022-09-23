@@ -26,3 +26,6 @@ The app also allows te user to:
 • The app is executed using the iPhone 11 simulator in iOS 14.1.
 
 • The app uses the Swift Packages: Alamofire - 5.6.2, SwifyJSON - 5.0.1
+
+Video Demostration
+https://github.com/dderich/iOS_final_exam_app/blob/master/iOS_final_exam_app_recording.mov
