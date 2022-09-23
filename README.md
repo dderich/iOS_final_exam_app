@@ -28,4 +28,4 @@ The app also allows te user to:
 • The app uses the Swift Packages: Alamofire - 5.6.2, SwifyJSON - 5.0.1
 
 Video Demostration
-https://user-images.githubusercontent.com/61340085/191897610-1dfe02a7-f76e-47ad-9247-cbe707988053.mov
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/dderich/iOS_final_exam_app/blob/master/iOS_final_exam_app_recording.mov?raw=true)
