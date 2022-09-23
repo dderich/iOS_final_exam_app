@@ -24,6 +24,4 @@ The app also allows te user to:
 • The app is structured using MVC architecture having clear separation of concerns between UI and business logic
 • The app is executed using the iPhone 11 simulator in iOS 14.1.
 
-• The app uses the Swift Packages: 
-    Alamofire - 5.6.2
-    SwifyJSON - 5.0.1
+• The app uses the Swift Packages: Alamofire - 5.6.2, SwifyJSON - 5.0.1
