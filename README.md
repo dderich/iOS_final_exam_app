@@ -17,6 +17,7 @@ The same screen provides two buttons to the user:
 • On click of “Add to favorite recipes” button, the current displayed recipe is saved to the CoreData database and another recipe is fetched from the API and displayed on screen
 
 The app also allows te user to:
+
 • open another screen from main screen where all the recipes from database that user had chosen as their favourite and displayed in TableView
 • delete any of the recipes from the list
 
